@@ -1,0 +1,6 @@
+[submodule "tiktok-to-shorts"]
+	path = tiktok-to-shorts
+	url = https://github.com/lscarrol/tiktok-to-shorts
+[submodule "reddit-to-shorts"]
+	path = reddit-to-shorts
+	url = https://github.com/lscarrol/reddit-to-shorts.git
